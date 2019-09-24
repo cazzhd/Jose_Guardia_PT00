@@ -8,7 +8,6 @@
 6. [INSTAL·LACIÓ DE LA DOCUMENTACIÓ DEL PHP](https://github.com/joseluisguardia/migrationToO365/tree/master/agraiments)
 7. [COMPROVACIONS](https://github.com/joseluisguardia/migrationToO365/tree/master/agraiments)
 
-
 # Requisits del servidor
 
 Cal destacar que m’he basat en els requeriments que proposa ubuntu en la seva documentació.

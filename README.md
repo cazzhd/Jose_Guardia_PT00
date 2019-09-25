@@ -1,11 +1,11 @@
 # Instal·lació i configuració Apache i mòdul PHP
 
 1. [REQUISITS DEL SISTEMA](#Requisits-del-servidor)
-2. [INSTAL·LACIÓ SERVIDOR WEB APACHE](https://github.com/joseluisguardia/migrationToO365/tree/master/desenvolupament)
-3. [CONFIGURACIÓ /etc/hosts (DOMINIS)](https://github.com/joseluisguardia/migrationToO365/tree/master/conclusio)
-4. [INSTA·LACIÓ I CONFIGURACIÓ DE SERVIDOR SSH (ADMINISTRACIÓ REMOTA)](https://github.com/joseluisguardia/migrationToO365/tree/master/webgrafia)
-5. [INSTAL·LACIÓ PHP](https://github.com/joseluisguardia/migrationToO365/tree/master/annexos)
-6. [INSTAL·LACIÓ DE LA DOCUMENTACIÓ DEL PHP](https://github.com/joseluisguardia/migrationToO365/tree/master/agraiments)
+2. [INSTAL·LACIÓ SERVIDOR WEB APACHE](#instal·lació-del-servidor-web-(apache))
+3. [CONFIGURACIÓ /etc/hosts (DOMINIS)](#configuració-del-domini)
+4. [INSTA·LACIÓ I CONFIGURACIÓ DE SERVIDOR SSH (ADMINISTRACIÓ REMOTA)](#administració-remota)
+5. [INSTAL·LACIÓ PHP](#instal·lació-de-php)
+6. [INSTAL·LACIÓ DE LA DOCUMENTACIÓ DEL PHP](#instal·lació-documentació-del-PHP)
 7. [COMPROVACIONS](#comprovacions)
 
 # Requisits del servidor

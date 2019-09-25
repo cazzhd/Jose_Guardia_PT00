@@ -4,8 +4,8 @@
 2. [INSTAL·LACIÓ SERVIDOR WEB APACHE](#instal·lació-del-servidor-web-(apache))
 3. [CONFIGURACIÓ /etc/hosts (DOMINIS)](#configuració-del-domini)
 4. [INSTA·LACIÓ I CONFIGURACIÓ DE SERVIDOR SSH (ADMINISTRACIÓ REMOTA)](#administració-remota)
-5. [INSTAL·LACIÓ PHP](#instal·lació-de-php)
-6. [INSTAL·LACIÓ DE LA DOCUMENTACIÓ DEL PHP](#instal·lació-documentació-del-PHP)
+5. [INSTAL·LACIÓ PHP](#install-de-php)
+6. [INSTAL·LACIÓ DE LA DOCUMENTACIÓ DEL PHP](#install-documentació-del-PHP)
 7. [COMPROVACIONS](#comprovacions)
 
 # Requisits del servidor
@@ -18,7 +18,7 @@ He decidit posar 2 GB de RAM, perquè es un kubuntu desktop que consumeix una mi
 
 ![Requeriments](/img/1.png)
 
-# Insta·lació del servidor web (Apache)
+# Install del servidor web (Apache)
 
 Primer de tot hem de crear la maquina virtual, actualitzar-la i actualitzar els repositoris.
 
@@ -142,7 +142,7 @@ Un cop afegit el fingerprint, ens demanara les credencials. Posem el usuari root
 La principal funció del SSH, es poder administrar i mantenir remotament els teus servidors, amb la ajuda o no d’internet, d’una manera molt segura, ja que utilitza una capa de seguretat que el seu antecessor Telnet no tenia. Es a dir, que ens permet connectar-nos des de qualsevol lloc del mon amb internet als nostres servidors d’una manera segura, així que si patim un man in the middle els paquets que veurà estaran encriptats.
 S’utilitza en grans empreses o grans infraestructures, ja que et permet administrar sense estar físicament al lloc. També es pot utilitzar en petites empreses, ja que no has d’estar treballant en el CPD, sinó estas al teu lloc amb connexió i pots administrar sense problemes. Tema hosting, si tens una web allotjada a internet, encara que tinguis un panell de control, potser necessites fer alguna cosa que a través d’aquell panell no t’ho permeti.
 
-# Instal·lació de PHP.
+# Install de PHP.
 
 El servidor web apache2 esta implementat utilitzant una arquitectura en mòduls molt semblant al kernel de Linux.
 
@@ -270,7 +270,7 @@ Comprovem on han quedat instal·lat els fitxers.
 
 ![Requeriments](/img/43.png)
 
-# Instal·lació documentació del PHP
+# Install documentació del PHP
 
 Per instal·lar la documentació primer de tot anem a la web oficial de php per descarregar-la.
 https://www.php.net/docs.php

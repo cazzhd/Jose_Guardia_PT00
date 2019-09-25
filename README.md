@@ -1,7 +1,7 @@
 # Instal·lació i configuració Apache i mòdul PHP
 
 1. [REQUISITS DEL SISTEMA](#Requisits-del-servidor)
-2. [INSTAL·LACIÓ SERVIDOR WEB APACHE](#instal·lació-del-servidor-web-(apache))
+2. [INSTAL·LACIÓ SERVIDOR WEB APACHE](#install-del-servidor-web-(apache))
 3. [CONFIGURACIÓ /etc/hosts (DOMINIS)](#configuració-del-domini)
 4. [INSTA·LACIÓ I CONFIGURACIÓ DE SERVIDOR SSH (ADMINISTRACIÓ REMOTA)](#administració-remota)
 5. [INSTAL·LACIÓ PHP](#install-de-php)

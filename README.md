@@ -1,7 +1,7 @@
 # Instal·lació i configuració Apache i mòdul PHP
 
 1. [REQUISITS DEL SISTEMA](#Requisits-del-servidor)
-2. [INSTAL·LACIÓ SERVIDOR WEB APACHE](#install-del-servidor-web-(apache))
+2. [INSTAL·LACIÓ SERVIDOR WEB APACHE](#install-apache)
 3. [CONFIGURACIÓ /etc/hosts (DOMINIS)](#configuració-del-domini)
 4. [INSTA·LACIÓ I CONFIGURACIÓ DE SERVIDOR SSH (ADMINISTRACIÓ REMOTA)](#administració-remota)
 5. [INSTAL·LACIÓ PHP](#install-de-php)
@@ -18,7 +18,7 @@ He decidit posar 2 GB de RAM, perquè es un kubuntu desktop que consumeix una mi
 
 ![Requeriments](/img/1.png)
 
-# Install del servidor web (Apache)
+# Install Apache
 
 Primer de tot hem de crear la maquina virtual, actualitzar-la i actualitzar els repositoris.
 

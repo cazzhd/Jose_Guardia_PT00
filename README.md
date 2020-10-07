@@ -10,7 +10,7 @@
 
 # Requisits del servidor
 
-Cal destacar que m’he basat en els requeriments que proposa ubuntu en la seva documentació.
+Cal destacar que m’he basat en els requiriments que proposa ubuntu en la seva documentació.
 
 [https://help.ubuntu.com/community/Installation/SystemRequirements](https://help.ubuntu.com/community/Installation/SystemRequirements)
 
